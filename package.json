@@ -1,0 +1,31 @@
+{
+    "title": "Portfolio",
+    "name": "portfolio-single-page",
+    "version": "1.0.0",
+    "description": "Single page portfolio website based on https://startbootstrap.com/template-overviews/one-page-wonder",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "bootstrap",
+        "portfolio"
+    ],
+    "license": "MIT",
+    "author": "Nicole Payr",
+    "contributors": [
+        "David Miller (http://davidmiller.io/)"
+    ],
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "jquery": "3.3.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.24.5",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "3.9.4",
+        "gulp-header": "2.0.5",
+        "gulp-rename": "1.3.0",
+        "gulp-sass": "4.0.1"
+    }
+}
